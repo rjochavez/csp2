@@ -1,0 +1,17 @@
+ADMIN
+username : arjo
+password : password1
+
+
+USER
+username : frank
+password : password
+
+username : mac
+password : password
+
+username : dennis
+password : password
+
+username : charlie
+password : password
